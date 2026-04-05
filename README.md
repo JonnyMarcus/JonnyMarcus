@@ -40,12 +40,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=JonnyMarcus&theme=tokyonight"/>
 
 </div>
----
 
 ## 🔥 Sequência de Contribuições
 
