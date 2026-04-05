@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Fullstack+Developer;Game+Dev+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Fullstack;Entusiasta+de+Game+Dev;Sempre+aprendendo+coisas+novas" />
 </p>
 
 <p align="center">
@@ -17,16 +17,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-💻 Computer Science student passionate about technology  
-🚀 Focused on building real-world projects  
-🎮 Experience with game development (Dev-U)  
-📚 Constantly learning about systems, programming and performance  
+💻 Estudante de Ciência da Computação apaixonado por tecnologia  
+🚀 Focado em construir projetos reais  
+🎮 Experiência com desenvolvimento de jogos (Dev-U)  
+📚 Sempre aprendendo sobre sistemas, programação e desempenho  
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tecnologias
 
 <div align="center">
 
@@ -36,19 +36,19 @@
 
 ---
 
-## 📊 Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Cobrinha de Contribuições
 
 <div align="center">
 
@@ -68,17 +68,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ✨ Em construção (os brabos estão vindo...)
 
-- 🎮 Game Projects (Dev-U)
-- ⚙️ Systems & Automation
-- 🌐 Fullstack Applications
+- 🎮 Projetos de Jogos (Dev-U)
+- ⚙️ Sistemas e Automação
+- 🌐 Aplicações Fullstack
 
 ---
 
-## 📈 Activity Graph
+## 📈 Gráfico de Atividade
 
 <div align="center">
 
@@ -88,8 +88,8 @@
 
 ---
 
-## 💬 Quote
+## 💬 Frase
 
 <p align="center">
-  <i>"Consistency beats talent."</i>
+  <i>"Consistência vence talento."</i>
 </p>
