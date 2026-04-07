@@ -60,10 +60,9 @@
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/JonnyMarcus/JonnyMarcus/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
 ---
 
 ## 🚀 Projetos em Destaque
