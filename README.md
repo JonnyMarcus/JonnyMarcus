@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github.com/JonnyMarcus/JonnyMarcus/blob/output/github-contribution-grid-snake.svg" />
+<<img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake.svg" />
 
 </div>
 ---
