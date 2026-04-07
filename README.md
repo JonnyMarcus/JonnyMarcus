@@ -58,9 +58,10 @@
 
 ## 🐍 Cobrinha de Contribuições
 
+## 🐍 Cobrinha de Contribuições
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 ---
