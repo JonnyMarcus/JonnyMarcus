@@ -18,6 +18,5 @@ Participação em Empresa Júnior de tecnologia, com atividades de gestão, orga
 ## Contato
 
 - [GitHub](https://github.com/JonnyMarcus)
-- [LinkedIn](https://www.linkedin.com/)
 
-> O endereço de LinkedIn acima é a página inicial do serviço, pois não encontrei um perfil específico verificável. Atualize o link quando o URL correto estiver disponível.
+O link de LinkedIn não foi incluído porque não há um perfil específico verificável nos dados disponíveis.
