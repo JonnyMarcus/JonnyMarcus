@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na **UNIFEI**, com foco em desenvolvimento
 
 ## Projetos
 
-- **[Certifica](https://github.com/JonnyMarcus/Gerador-Autom-tico-de-Certificados)** — ferramenta Python/Streamlit para gerar certificados a partir de planilhas, com exportação em PDF/PPTX e testes automatizados. [Demonstração](https://arpalq47szetr6bwvpxtzy.streamlit.app/).
+- **[Certifica](https://github.com/JonnyMarcus/Gerador-Autom-tico-de-Certificados)** — ferramenta Python/Streamlit para gerar certificados a partir de planilhas, com exportação em PDF/PPTX e testes automatizados..
 - **[Barbearia do Victor](https://github.com/JonnyMarcus/Web-Site-Barber-Projeto-Final)** — projeto acadêmico com frontend Next.js e backend Strapi. O fluxo de agendamento no frontend é visual; a integração ponta a ponta e a prevenção de conflitos ainda precisam ser verificadas e concluídas.
 
 ## Tecnologias
