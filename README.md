@@ -1,38 +1,22 @@
-## Hero
+# Jonny Marcus
 
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=satan&style=aura)
+Estudante de Ciência da Computação na **UNIFEI**, com foco em desenvolvimento Full Stack. Tenho interesse em construir aplicações web completas com TypeScript, React/Next.js, Node.js e bancos de dados relacionais, cuidando também de validação, testes e documentação.
 
-## GitHub Stats
+## Projetos
 
-![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=JonnyMarcus&theme=satan&style=aura)
+- **[Certifica](https://github.com/JonnyMarcus/Gerador-Autom-tico-de-Certificados)** — ferramenta Python/Streamlit para gerar certificados a partir de planilhas, com exportação em PDF/PPTX e testes automatizados..
+- **[Barbearia do Victor](https://github.com/JonnyMarcus/Web-Site-Barber-Projeto-Final)** — projeto acadêmico com frontend Next.js e backend Strapi. O fluxo de agendamento no frontend é visual; a integração ponta a ponta e a prevenção de conflitos ainda precisam ser verificadas e concluídas.
 
-## Stack
+## Tecnologias
 
-![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=JonnyMarcus&theme=satan&style=aura)
+TypeScript, JavaScript, React, Next.js, Node.js, Python, SQL, Git e APIs REST.
 
-## Projects
+## Experiência complementar
 
-![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=satan&style=aura)
+Participação em Empresa Júnior de tecnologia, com atividades de gestão, organização de processos e documentação, além do desenvolvimento técnico.
 
-## Highlights
+## Contato
 
-![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=JonnyMarcus&theme=satan&style=aura)
+- [GitHub](https://github.com/JonnyMarcus)
 
-## Heatmap
-
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=JonnyMarcus&theme=satan&style=aura)
-
-## Connect
-
-![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=satan&style=aura)
-
-## Extras
-
-<p align="center">
-  <img src="https://lichess-shield.vercel.app/api?username=SEU_USUARIO_LICHESS&format=rapid" alt="Lichess Rapid Rating" />
-  <img src="https://lichess-shield.vercel.app/api?username=SEU_USUARIO_LICHESS&format=blitz" alt="Lichess Blitz Rating" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/main/coding.gif" alt="Coding GIF" width="450" />
-</p>
+O link de LinkedIn não foi incluído porque não há um perfil específico verificável nos dados disponíveis.
